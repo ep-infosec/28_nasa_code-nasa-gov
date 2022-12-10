@@ -1,0 +1,46 @@
+[
+	{
+		"Center": "ARC",
+		"Email":  "arc-sra-team@mail.nasa.gov"
+	},
+	{
+		"Center": "AFRC",
+		"Email":  "afrc-ipo-softwarecatalogue@mail.nasa.gov"
+	},
+	{
+		"Center": "GRC",
+		"Email":  "grc-sra-team@mail.nasa.gov"
+	},
+	{
+		"Center": "GSFC",
+		"Email":  "gsfc-softwarerequest@mail.nasa.gov"
+	},
+	{
+		"Center": "HQ",
+		"Email":  "hq-sra-team@mail.nasa.gov"
+	},
+	{
+		"Center": "JPL",
+		"Email":  "jpl_ott@jpl.nasa.gov"
+	},
+	{
+		"Center": "JSC",
+		"Email":  "jsc-ttco-software-request@mail.nasa.gov"
+	},
+	{
+		"Center": "KSC",
+		"Email":  "ksc-dl-software-request@mail.nasa.gov"
+	},
+	{
+		"Center": "LaRC",
+		"Email":  "larc-sra@mail.nasa.gov"
+	},
+	{
+		"Center": "MSFC",
+		"Email":  "msfc-sra-team@mail.nasa.gov"
+	},
+	{
+		"Center": "SSC",
+		"Email":  "ssc-technology@nasa.gov"
+	}
+]
